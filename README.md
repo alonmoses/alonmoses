@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @amoses
-- 💞️ I’m looking to collaborate on dcs
-- 📫 How to reach me alon.moses@intel.com
+- 👋 Hi, I’m Alon Moses
+- 💞️ 
+- 📫 How to reach me alon2332@gmail.com
 
 <!---
 alonmoses/alonmoses is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
